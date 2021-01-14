@@ -1,1 +1,0 @@
-# drumkit-v2-JavaScript
